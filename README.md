@@ -1,3 +1,1 @@
-# Postman_collection
-
-Коллекции запросов в Postman
+### Коллекции запросов в Postman (collection)
